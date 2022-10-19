@@ -7,8 +7,8 @@ import time
 
 toast = ToastNotifier()
 
-URL = "https://www.jdsports.fr/product/noir-nike-sweat--capuche-foundation-full-zip-homme/16011261_jdsportsfr/stock/"
-# URL = "https://www.jdsports.fr/product/gris-adidas-originals-sweat--capuche-graffiti-homme/16543485_jdsportsfr/stock/"
+URL = "put your url here"
+# Example : URL = "https://www.jdsports.fr/product/gris-adidas-originals-sweat--capuche-graffiti-homme/16543485_jdsportsfr/stock/"
 
 
 
